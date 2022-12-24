@@ -9,7 +9,9 @@ gm compare -highlight-style assign -highlight-color lime -file lena.jpg.diff.jpg
 
 Original | Modify | Composed | Difference
 ---------|---------|----------|-----------
-![Original](./images/lena.jpg)|![Modify](./images/lena.jpg.png)|![Result](./images/lena.jpg.png.jpg)|![Overlay](./images/lena.jpg.diff.jpg)
+![Original](https://raw.githubusercontent.com/ImageProcessing-ElectronicPublications/libmodjpeg-samples/main/images/lena.jpg)|![Modify](https://raw.githubusercontent.com/ImageProcessing-ElectronicPublications/libmodjpeg-samples/main/images/lena.jpg.png)|![Result](https://raw.githubusercontent.com/ImageProcessing-ElectronicPublications/libmodjpeg-samples/main/images/lena.jpg.png.jpg)|![Overlay](https://raw.githubusercontent.com/ImageProcessing-ElectronicPublications/libmodjpeg-samples/main/images/lena.jpg.diff.jpg)
+
+See sample images in [libmodjpeg-samples](https://github.com/ImageProcessing-ElectronicPublications/libmodjpeg-samples).
 
 ## URL
 
